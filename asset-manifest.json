@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolioapp/static/css/main.69dddd2d.css",
-    "main.js": "/portfolioapp/static/js/main.190b068e.js",
-    "static/js/787.b80100c1.chunk.js": "/portfolioapp/static/js/787.b80100c1.chunk.js",
-    "static/media/profile.jpg": "/portfolioapp/static/media/profile.71aba8f1395837ecdcb5.jpg",
-    "static/media/project1.jpg": "/portfolioapp/static/media/project1.c96dfa464707dccd278a.jpg",
-    "static/media/project2.jpg": "/portfolioapp/static/media/project2.e7dc605793c1ffc972cb.jpg",
-    "static/media/project3.jpg": "/portfolioapp/static/media/project3.45648ae989abe5b924f6.jpg",
-    "static/media/project4.jpg": "/portfolioapp/static/media/project4.df1de04081bbd6fdba99.jpg",
-    "static/media/project6.jpg": "/portfolioapp/static/media/project6.2d4576112baf68ea45aa.jpg",
-    "static/media/project5.jpg": "/portfolioapp/static/media/project5.a2286bc37ffb3ace0b18.jpg",
-    "static/media/HodanMohamed-CV.pdf": "/portfolioapp/static/media/HodanMohamed-CV.60784407279c36389340.pdf",
-    "index.html": "/portfolioapp/index.html",
-    "main.69dddd2d.css.map": "/portfolioapp/static/css/main.69dddd2d.css.map",
-    "main.190b068e.js.map": "/portfolioapp/static/js/main.190b068e.js.map",
-    "787.b80100c1.chunk.js.map": "/portfolioapp/static/js/787.b80100c1.chunk.js.map"
+    "main.css": "/static/css/main.13b69133.css",
+    "main.js": "/static/js/main.1dc3fcab.js",
+    "static/js/787.b80100c1.chunk.js": "/static/js/787.b80100c1.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.71aba8f1395837ecdcb5.jpg",
+    "static/media/project1.jpg": "/static/media/project1.c96dfa464707dccd278a.jpg",
+    "static/media/project2.jpg": "/static/media/project2.e7dc605793c1ffc972cb.jpg",
+    "static/media/project3.jpg": "/static/media/project3.45648ae989abe5b924f6.jpg",
+    "static/media/project4.jpg": "/static/media/project4.df1de04081bbd6fdba99.jpg",
+    "static/media/project6.jpg": "/static/media/project6.2d4576112baf68ea45aa.jpg",
+    "static/media/project5.jpg": "/static/media/project5.a2286bc37ffb3ace0b18.jpg",
+    "static/media/HodanMohamed-CV.pdf": "/static/media/HodanMohamed-CV.60784407279c36389340.pdf",
+    "index.html": "/index.html",
+    "main.13b69133.css.map": "/static/css/main.13b69133.css.map",
+    "main.1dc3fcab.js.map": "/static/js/main.1dc3fcab.js.map",
+    "787.b80100c1.chunk.js.map": "/static/js/787.b80100c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69dddd2d.css",
-    "static/js/main.190b068e.js"
+    "static/css/main.13b69133.css",
+    "static/js/main.1dc3fcab.js"
   ]
 }
