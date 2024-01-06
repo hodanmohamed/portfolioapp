@@ -18,7 +18,7 @@ export const Data = [
         image: Project2,
         title: 'Visual Life',
         category: 'design',
-        link: 'https://dribbble.com/shots/23374328-The-Visual-Life-Photography-Landing-Page'
+        link: 'https://www.behance.net/gallery/188239169/The-Visual-Life-Photography-Landing-Page'
     },
     {
         id: 3,
@@ -46,7 +46,7 @@ export const Data = [
         image: Project6,
         title: 'Chroma Podcast',
         category: 'design',
-        link: 'https://dribbble.com/shots/23367320-Chroma-Podcast-Launch-Website-Design'
+        link: 'https://www.behance.net/gallery/188239495/Chroma-Podcast-Launch-Website-Design'
     },
 ];
 
