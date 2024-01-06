@@ -24,7 +24,7 @@ const Footer = () => {
                 <i className="bx bxl-linkedin"></i>
             </a>
 
-            <a href="https://dribbble.com/hodanmoh" className="footer__social-link" target={'_blank'} rel='noreferrer'>
+            <a href="https://www.behance.net/hodandev" className="footer__social-link" target={'_blank'} rel='noreferrer'>
                 <i className="bx bxl-behance"></i>
             </a>
 
