@@ -9,7 +9,7 @@ const Social = () => {
         </a>
 
         <a href="https://dribbble.com/hodanmoh" className="home__social-icon" target={'_blank'} rel='noreferrer'>
-          <i className="bx bxl-dribbble"></i>
+          <i className="bx bxl-behance"></i>
         </a>
 
         <a href="https://github.com/hodanmohamed" className="home__social-icon" target={'_blank'} rel='noreferrer'>
