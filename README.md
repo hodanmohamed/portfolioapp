@@ -2,7 +2,7 @@
 
 Explore my portfolio, a testament to my proficiency in frontend development and UX/UI design. Showcasing a diverse range of work, highlighting skills, qualifications, and services. Eager to bring innovation to your projects, I'm actively seeking new opportunities to contribute my expertise.
 
-<img width="1429" alt="hodandev.com" src="https://github.com/hodanmohamed/portfolioapp/assets/100366164/493f48b5-f442-4fec-82f7-e990c1616904">
+<img width="1430" alt="hodandev.com" src="https://github.com/hodanmohamed/portfolioapp/assets/100366164/05e16a8b-8df4-485c-9cd8-ea439f35b890">
 
 ## Tech Stack
 
