@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b47a651.css",
-    "main.js": "/static/js/main.e2824c19.js",
+    "main.css": "/static/css/main.678c9a93.css",
+    "main.js": "/static/js/main.f6defaba.js",
     "static/js/787.b80100c1.chunk.js": "/static/js/787.b80100c1.chunk.js",
-    "static/media/profile.jpg": "/static/media/profile.71aba8f1395837ecdcb5.jpg",
+    "static/media/profile.jpg": "/static/media/profile.cfd2bd3dd3d055e70753.jpg",
     "static/media/project1.jpg": "/static/media/project1.c96dfa464707dccd278a.jpg",
     "static/media/project2.jpg": "/static/media/project2.e7dc605793c1ffc972cb.jpg",
     "static/media/project3.jpg": "/static/media/project3.45648ae989abe5b924f6.jpg",
@@ -12,12 +12,12 @@
     "static/media/project5.jpg": "/static/media/project5.a2286bc37ffb3ace0b18.jpg",
     "static/media/HodanMohamed-CV.pdf": "/static/media/HodanMohamed-CV.60784407279c36389340.pdf",
     "index.html": "/index.html",
-    "main.7b47a651.css.map": "/static/css/main.7b47a651.css.map",
-    "main.e2824c19.js.map": "/static/js/main.e2824c19.js.map",
+    "main.678c9a93.css.map": "/static/css/main.678c9a93.css.map",
+    "main.f6defaba.js.map": "/static/js/main.f6defaba.js.map",
     "787.b80100c1.chunk.js.map": "/static/js/787.b80100c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b47a651.css",
-    "static/js/main.e2824c19.js"
+    "static/css/main.678c9a93.css",
+    "static/js/main.f6defaba.js"
   ]
 }
