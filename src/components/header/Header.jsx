@@ -27,17 +27,17 @@ const Header = () => {
                         </a>
                     </li>
 
-                    <li className="nav__item">
+                    {/* <li className="nav__item">
                         <a href="#about" onClick={() => setActiveNav('#about')} className={activeNav === '#about' ? 'nav__link active-link' : 'nav__link'}>
                             <i className="uil uil-user nav__icon"></i> About
                         </a>
-                    </li>
+                    </li> */}
 
-                    <li className="nav__item">
+                    {/* <li className="nav__item">
                         <a href="#skills" onClick={() => setActiveNav('#skills')} className={activeNav === '#skills' ? 'nav__link active-link' : 'nav__link'}>
                             <i className="uil uil-file-alt nav__icon"></i> Skills
                         </a>
-                    </li>
+                    </li> */}
 
                     <li className="nav__item">
                         <a href="#portfolio" onClick={() => setActiveNav('#portfolio')} className={activeNav === '#portfolio' ? 'nav__link active-link' : 'nav__link'}>
