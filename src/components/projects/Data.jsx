@@ -1,9 +1,8 @@
 import Project1 from '../../assets/project1.jpg';
 import Project2 from '../../assets/project2.jpg';
 import Project3 from '../../assets/project3.jpg';
-import Project4 from '../../assets/project4.jpg';
-import Project5 from '../../assets/project5.jpg';
-import Project6 from '../../assets/project6.jpg';
+import Project4 from '../../assets/project7.jpg';
+import Project5 from '../../assets/project8.jpg';
 
 export const Data = [
     {
@@ -30,23 +29,16 @@ export const Data = [
     {
         id: 4,
         image: Project4,
-        title: 'Musicle',
-        category: 'app',
-        link: 'https://hodanmohamed.github.io/musicleapp/'
+        title: 'Frame By Frame Alliance',
+        category: 'design',
+        link: 'https://www.behance.net/gallery/208476621/Frame-by-Frame-Alliance-Web-Design'
     },
     {
         id: 5,
         image: Project5,
-        title: 'TodoApp',
-        category: 'app',
-        link: 'https://hodanmohamed.github.io/todoapp/'
-    },
-    {
-        id: 6,
-        image: Project6,
-        title: 'Chroma Podcast',
+        title: 'Luna Captures',
         category: 'design',
-        link: 'https://www.behance.net/gallery/188239495/Chroma-Podcast-Launch-Website-Design'
+        link: 'https://www.behance.net/gallery/208476389/Luna-Captures-Photography-Portfolio-Website-Design'
     },
 ];
 
@@ -55,12 +47,9 @@ export const projectsNav = [
         name: 'all',
     },
     {
-        name: 'web',
-    },
-    {
         name: 'design',
     },
     {
-        name: 'app'
-    }
+        name: 'web',
+    },
 ];
