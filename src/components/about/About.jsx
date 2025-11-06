@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import AboutImg from "../../assets/profile.jpg"
-import CV from "../../assets/HodanMohamed-CV.pdf";
+// import CV from "../../assets/HodanMohamed-CV.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -18,7 +18,7 @@ const About = () => {
 
                 <p className="about__description">A passionate and innovatively driven Front-End Developer with a strong desire to create exceptional web experiences. I'm dedicated to ensuring attention to detail while designing, developing, and testing various web applications.</p>
                 
-                <a download="" href={CV} className="button button--flex">Download CV
+                {/* <a download="" href={CV} className="button button--flex">Download CV
                 <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
@@ -43,7 +43,7 @@ const About = () => {
                   d="M11.25 17.7502H7.25C6.84 17.7502 6.5 17.4102 6.5 17.0002C6.5 16.5902 6.84 16.2502 7.25 16.2502H11.25C11.66 16.2502 12 16.5902 12 17.0002C12 17.4102 11.66 17.7502 11.25 17.7502Z"
                   fill="var(--container-color)"
                 ></path>
-              </svg></a>
+              </svg></a> */}
             </div>
         </div>
     </section>
